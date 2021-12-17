@@ -1,0 +1,31 @@
+name: Frauenhaus scraper
+
+on:
+  schedule:
+    - cron:  '0 8,12,18 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+
+    - uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.7' 
+
+    - name: Install dependencies
+      run: pip install -r ./requirements.txt
+
+    - name: Scrape data
+      run: python ./scraper.py
+
+    - name: Commit to GitHub
+      run: |-
+        git config --global user.email "max.donheiser@correctiv.org"
+        git config --global user.name "Max"
+        git add .
+        git commit -m 'Updated data'
+        git push
