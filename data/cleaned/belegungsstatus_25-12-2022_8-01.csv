@@ -1,4 +1,4 @@
-shelter_name,shelter_id,latitude,longitude,timestamp,description,desc_short,gen,bez,bundesland
+shelter_name,shelter_id,latitude,longitude,timestamp,description,status,gen,bez,bundesland
 Frauen- und Kinderschutzhaus Aachen,2270,50.788047150729,6.097588101025,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Städteregion Aachen,Kreis,Nordrhein-Westfalen
 Frauenhaus Alsdorf,2244,50.871672283047,6.208659018565,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Städteregion Aachen,Kreis,Nordrhein-Westfalen
 Frauenhaus Bad Hersfeld,2114,50.869468708997,9.714945143903,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Hersfeld-Rotenburg,Landkreis,Hessen
