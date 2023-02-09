@@ -123,6 +123,11 @@ Frauenhaus Lila Villa e.V.,2409,49.4612447,8.1705981,2022-12-25 08:01:00,Keine A
 Frauenhaus Ludwigshafen,2415,49.479714236326,8.449962862506,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Ludwigshafen am Rhein,Kreisfreie Stadt,Rheinland-Pfalz,Frauenhaus,False,False,False,False
 Frauenhaus Worms,2410,49.6238729,8.359877471689,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Worms,Kreisfreie Stadt,Rheinland-Pfalz,Frauenhaus,False,False,False,False
 "Frauen und Kinderschutzhaus Baden-Baden, Landkreis Rastatt",2432,48.766436,8.244599718105,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Baden-Baden,Stadtkreis,Baden-Württemberg,Frauenhaus,False,False,False,False
+Goslarer Frauenhaus e.V.,2457,51.905936897584,10.429016418709,2022-12-25 08:01:00,k.A.,keine Angabe,Goslar,Landkreis,Niedersachsen,Frauenhaus,False,False,False,False
+Frauenhaus Northeim,2468,51.708197825579,9.999778867737,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Northeim,Landkreis,Niedersachsen,Frauenhaus,False,False,False,False
+Mannheimer Frauenhaus,2459,49.546312398996,8.461605604247,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Mannheim,Stadtkreis,Baden-Württemberg,Frauenhaus,True,False,False,False
+Frauenhaus der AWO Bremen,2431,53.0792962,8.8016937,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Bremen,Kreisfreie Stadt,Bremen,Frauenhaus,True,False,False,False
+Frauenhaus Amberg,2493,49.434897926183,11.845632636832,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Amberg,Kreisfreie Stadt,Bayern,Frauenhaus,True,False,False,False
 Frauenhaus Stormarn,2343,53.674312919727,10.231099789877,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Stormarn,Kreis,Schleswig-Holstein,Frauenhaus,False,False,False,False
 Frauenhaus Arnsberg,2182,51.407732617724,8.051075898828,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Hochsauerlandkreis,Kreis,Nordrhein-Westfalen,Frauenhaus,False,False,False,False
 Frauenhaus Bad Kreuznach,2053,49.8428494,7.8667379,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Bad Kreuznach,Landkreis,Rheinland-Pfalz,Frauenhaus,False,False,False,False
@@ -169,6 +174,8 @@ Frauenhaus Düsseldorf,2419,51.2418056,6.8082556,2022-12-25 08:01:00,Keine Aufna
 Frauen- und Kinderschutzhaus,2423,51.502765616284,9.117780029782,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Höxter,Kreis,Nordrhein-Westfalen,Frauenhaus,False,False,False,False
 Frauenhaus Mayen-Koblenz,2426,50.325712347282,7.2284572929,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Mayen-Koblenz,Landkreis,Rheinland-Pfalz,Frauenhaus,True,False,True,False
 Schutzwohnungen Nordfriesland,2438,54.6156443,8.9676337,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Nordfriesland,Kreis,Schleswig-Holstein,Schutzwohnung,False,False,False,False
+Schutzraum SEGEL Mannheim,2458,49.493452209363,8.468547144257,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Mannheim,Stadtkreis,Baden-Württemberg,Schutzwohnung,False,False,False,True
+Frauen- und Kinderschutzhaus Sigmaringen,2462,48.086971599501,9.214495963747,2022-12-25 08:01:00,k.A.,keine Angabe,Sigmaringen,Landkreis,Baden-Württemberg,Frauenhaus,False,False,False,False
 Frauenschutzwohnung Altenburg,2276,50.9888921,12.429075,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Altenburger Land,Landkreis,Thüringen,Schutzwohnung,False,False,False,False
 Frauenschutz Weimarer Land,2062,51.020381404684,11.4986504232,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Weimarer Land,Landkreis,Thüringen,Frauenhaus,False,False,False,False
 Frauen- und Kinderschutzhaus Bay. Untermain,2120,49.977036120801,9.145832480125,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Aschaffenburg,Kreisfreie Stadt,Bayern,Frauenhaus,False,False,False,False
@@ -250,6 +257,7 @@ Frauenhaus,2407,49.9194456,8.4852426,2022-12-25 08:01:00,Keine Aufnahme möglich
 Frauenhaus Mainz,2411,49.986824590308,8.271431806591,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Mainz,Kreisfreie Stadt,Rheinland-Pfalz,Frauenhaus,False,False,False,False
 Frauenhaus Westerwald,2416,50.66442060915,7.821671710156,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Westerwaldkreis,Landkreis,Rheinland-Pfalz,Frauenhaus,False,False,False,False
 Frauenhaus Freising,2422,48.399763713312,11.735230175261,2022-12-25 08:01:00,k.A.,keine Angabe,Freising,Landkreis,Bayern,Frauenhaus,False,False,False,False
+Frauen- und Kinderschutzhaus Heidenheim,2481,48.68534546242,10.140460950757,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Heidenheim,Landkreis,Baden-Württemberg,Frauenhaus,False,True,False,False
 Frauenhaus Bremerhaven,2369,53.529776471842,8.622328260819,2022-12-25 08:01:00,k.A.,keine Angabe,Bremerhaven,Kreisfreie Stadt,Bremen,Frauenhaus,False,False,False,False
 Frauenhaus Chemnitz,2099,50.832365999642,12.920172846924,2022-12-25 08:01:00,k.A.,keine Angabe,Chemnitz,Kreisfreie Stadt,Sachsen,Frauenhaus,True,False,False,False
 1. &amp 3. Hamburger Frauenhaus,2382,53.5528284,9.9966396,2022-12-25 08:01:00,k.A.,keine Angabe,Hamburg,Kreisfreie Stadt,Hamburg,Frauenhaus,True,False,False,False
@@ -309,3 +317,7 @@ DRK KV Eichsfeld e.V. Frauenschutzwohnung Leinefelde,2282,51.425144533056,10.358
 Frauenhaus Neuruppin,2340,52.920470743076,12.805888514342,2022-12-25 08:01:00,k.A.,keine Angabe,Ostprignitz-Ruppin,Landkreis,Brandenburg,Frauenhaus,False,False,True,False
 Frauenhaus Gera,2421,50.8772301,12.0796208,2022-12-25 08:01:00,k.A.,keine Angabe,Gera,Kreisfreie Stadt,Thüringen,Frauenhaus,False,False,False,False
 Frauen- und Kinderschutzhaus des Landkreises Oldenburg,2429,52.903874494874,8.445246410384,2022-12-25 08:01:00,k.A.,keine Angabe,Oldenburg,Landkreis,Niedersachsen,Frauenhaus,False,False,False,False
+SkF Frauenhaus Kaufbeuren-Ostallgäu,2444,47.8899307307,10.626108318125,2022-12-25 08:01:00,k.A.,keine Angabe,Kaufbeuren,Kreisfreie Stadt,Bayern,Frauenhaus,False,False,False,False
+Frauenhaus BORA e.V.,2449,52.55712455,13.448277760058,2022-12-25 08:01:00,k.A.,keine Angabe,Berlin,Kreisfreie Stadt,Berlin,Frauenhaus,True,False,False,False
+Frauenschutzhaus Bautzen,2498,51.182293,14.4237749,2022-12-25 08:01:00,k.A.,keine Angabe,Bautzen,Landkreis,Sachsen,Frauenhaus,False,False,False,False
+Frauenhaus Nordschwaben,2514,48.6042127,10.5888474,2022-12-25 08:01:00,k.A.,keine Angabe,Dillingen a.d. Donau,Landkreis,Bayern,Frauenhaus,False,False,False,False
