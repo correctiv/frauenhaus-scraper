@@ -28,8 +28,8 @@ Frauen - und Kinderschutzhaus,2339,49.893363,8.836827,2022-12-25 08:01:00,Keine 
 Autonomes Frauenhaus Dortmund,2052,51.5142273,7.4652789,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Dortmund,Kreisfreie Stadt,Nordrhein-Westfalen,Frauenhaus,True,True,False,False
 Frauenhaus Duisburg gGmbH,2203,51.434999,6.759562,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Duisburg,Kreisfreie Stadt,Nordrhein-Westfalen,Frauenhaus,False,True,False,False
 Autonomes Frauenhaus Elmshorn,2049,53.7542251,9.6592636,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Pinneberg,Kreis,Schleswig-Holstein,Frauenhaus,False,False,False,False
-Frauenhaus Erding,2362,48.304271224419,11.90594429271,2022-12-25 08:01:00,Aufnahme möglich für Frauen mit 2 Kindern,Aufnahme möglich für Frauen mit mehreren Kindern,Erding,Landkreis,Bayern,Frauenhaus,False,True,False,False
-Frauenhaus Espelkamp,2184,52.375750324544,8.632890486707,2022-12-25 08:01:00,Aufnahme möglich ohne detaillierte Angabe,Aufnahme möglich ohne detaillierte Angabe,Minden-Lübbecke,Kreis,Nordrhein-Westfalen,Frauenhaus,True,False,False,False
+Frauenhaus Erding,2362,48.304271224419,11.90594429271,2022-12-25 08:01:00,Aufnahme möglich für Frauen mit 2 Kindern,Aufnahme möglich,Erding,Landkreis,Bayern,Frauenhaus,False,True,False,False
+Frauenhaus Espelkamp,2184,52.375750324544,8.632890486707,2022-12-25 08:01:00,Aufnahme möglich ohne detaillierte Angabe,Aufnahme möglich,Minden-Lübbecke,Kreis,Nordrhein-Westfalen,Frauenhaus,True,False,False,False
 Frauenhaus Essen,2143,51.438379602305,7.009099068551,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Essen,Kreisfreie Stadt,Nordrhein-Westfalen,Frauenhaus,True,True,False,False
 Frauenhaus Esslingen,2065,48.741421196937,9.310220283594,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Esslingen,Landkreis,Baden-Württemberg,Frauenhaus,False,False,False,False
 Schutzhaus für Frauen und Kinder,2107,50.616462856427,6.84026134715,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Euskirchen,Kreis,Nordrhein-Westfalen,Frauenhaus,False,False,False,False
@@ -64,7 +64,7 @@ Frauenhaus Landau,2332,49.19988782812,8.113401055813,2022-12-25 08:01:00,Keine A
 Frauenhaus Lauchhammer,2346,51.4957085,13.7605753,2022-12-25 08:01:00,k.A.,keine Angabe,Oberspreewald-Lausitz,Landkreis,Brandenburg,Frauenhaus,False,False,False,False
 4. Frauen*- und Kinderschutzhaus Leipzig,2317,51.3406321,12.3747329,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Leipzig,Kreisfreie Stadt,Sachsen,Frauenhaus,False,False,False,False
 Autonomes Frauenhaus Leverkusen,2151,51.036439483933,6.993204651605,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Leverkusen,Kreisfreie Stadt,Nordrhein-Westfalen,Frauenhaus,False,False,False,False
-"Frauenhaus, Beratungs- und Interventionsstelle Limburg",2036,50.387426446735,8.064561329702,2022-12-25 08:01:00,Aufnahme möglich für Frauen mit 2 Kindern,Aufnahme möglich für Frauen mit mehreren Kindern,Limburg-Weilburg,Landkreis,Hessen,Frauenhaus,False,False,False,False
+"Frauenhaus, Beratungs- und Interventionsstelle Limburg",2036,50.387426446735,8.064561329702,2022-12-25 08:01:00,Aufnahme möglich für Frauen mit 2 Kindern,Aufnahme möglich,Limburg-Weilburg,Landkreis,Hessen,Frauenhaus,False,False,False,False
 Autonomes Frauenhaus Lörrach,2075,47.602006174985,7.6622878822819995,2022-12-25 08:01:00,k.A.,keine Angabe,Lörrach,Landkreis,Baden-Württemberg,Frauenhaus,False,False,False,False
 Frauenhaus Hartengrube,2284,53.861924849136,10.683346452091,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Lübeck,Kreisfreie Stadt,Schleswig-Holstein,Frauenhaus,False,False,False,False
 Frauenhaus Ludwigsburg,2223,48.905138982478,9.175657488432,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Ludwigsburg,Landkreis,Baden-Württemberg,Frauenhaus,True,True,True,False
@@ -89,16 +89,17 @@ Autonomes Frauenhaus Kreis Plön,2034,54.232749761427,10.279783840293,2022-12-25
 Frauen- und Kinderschutzhaus,2268,47.764202227177,9.604661644156,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Ravensburg,Landkreis,Baden-Württemberg,Frauenhaus,False,False,False,False
 Frauenhaus Recklinghausen e.V.,2380,51.562289600477,7.197057131299,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Recklinghausen,Kreis,Nordrhein-Westfalen,Frauenhaus,False,False,False,False
 Frauenhaus Remscheid,2356,51.1463909,7.2148641,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Rheinisch-Bergischer Kreis,Kreis,Nordrhein-Westfalen,Frauenhaus,True,False,True,False
-Frauenhaus Rendsburg gGmbH,2191,54.308288610642,9.658791079076,2022-12-25 08:01:00,Aufnahme möglich für Frauen mit 3 Kindern,Aufnahme möglich für Frauen mit mehreren Kindern,Rendsburg-Eckernförde,Kreis,Schleswig-Holstein,Frauenhaus,True,False,False,False
+Frauenhaus Rendsburg gGmbH,2191,54.308288610642,9.658791079076,2022-12-25 08:01:00,Aufnahme möglich für Frauen mit 3 Kindern,Aufnahme möglich,Rendsburg-Eckernförde,Kreis,Schleswig-Holstein,Frauenhaus,True,False,False,False
 Frauenhaus Rodgau,2166,50.021737483593,8.882036802864,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Offenbach,Landkreis,Hessen,Frauenhaus,False,False,False,False
 Frauenhaus Rosenheim/Traunstein,2269,47.8571272,12.1181047,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Rosenheim,Kreisfreie Stadt,Bayern,Frauenhaus,False,False,False,False
 Autonomes Frauenhaus Rostock,2163,54.052138471041,12.10428681682,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Rostock,Landkreis,Mecklenburg-Vorpommern,Frauenhaus,False,False,False,False
 Frauenhaus Salzgitter,2128,52.159624591925,10.331093344387,2022-12-25 08:01:00,k.A.,keine Angabe,Salzgitter,Kreisfreie Stadt,Niedersachsen,Frauenhaus,False,False,False,False
-Frauen- und Kinderschutzhaus Sangerhausen,2058,51.4798304,11.2943896,2022-12-25 08:01:00,Aufnahme möglich ohne detaillierte Angabe,Aufnahme möglich ohne detaillierte Angabe,Mansfeld-Südharz,Landkreis,Sachsen-Anhalt,Frauenhaus,False,False,False,False
+Frauen- und Kinderschutzhaus Sangerhausen,2058,51.4798304,11.2943896,2022-12-25 08:01:00,Aufnahme möglich ohne detaillierte Angabe,Aufnahme möglich,Mansfeld-Südharz,Landkreis,Sachsen-Anhalt,Frauenhaus,False,False,False,False
 Frauenhaus des Rhein-Sieg-Kreises,2228,50.749009526955,7.221746527917,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Rhein-Sieg-Kreis,Kreis,Nordrhein-Westfalen,Frauenhaus,False,False,False,False
 Frauen-und Kinderschutzhaus Schwäbisch Hall,2176,49.112065275931,9.732801718754,2022-12-25 08:01:00,k.A.,keine Angabe,Schwäbisch Hall,Landkreis,Baden-Württemberg,Frauenhaus,True,False,False,False
 Frauenhaus Schwedt,2079,53.072867194575,14.277710475059,2022-12-25 08:01:00,k.A.,keine Angabe,Uckermark,Landkreis,Brandenburg,Frauenhaus,True,False,False,False
 Frauenhaus Siegen,2154,50.8759626,8.0164616,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Siegen-Wittgenstein,Kreis,Nordrhein-Westfalen,Frauenhaus,False,False,False,False
+Frauenhaus Singen,2237,47.762044359329,8.853405053013,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Konstanz,Landkreis,Baden-Württemberg,Frauenhaus,False,False,False,False
 Frauenhaus Soest,2144,51.565331935758,8.097908720838,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Soest,Kreis,Nordrhein-Westfalen,Frauenhaus,False,False,False,False
 Frauenhaus e.V. Solingen,2110,51.1238982,6.978047,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Mettmann,Kreis,Nordrhein-Westfalen,Frauenhaus,True,False,False,False
 Frauenhaus Speyer,2174,49.322620194502,8.429573035315,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Speyer,Kreisfreie Stadt,Rheinland-Pfalz,Frauenhaus,False,False,False,False
@@ -115,13 +116,14 @@ Frauenhaus Weiden,2071,49.677827673914,12.154750706237,2022-12-25 08:01:00,Keine
 Frauenhaus Wetzlar e.V.,2208,50.559625165351,8.499134628186,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Lahn-Dill-Kreis,Landkreis,Hessen,Frauenhaus,False,False,False,False
 Haus für Frauen in Not Wiesbaden,2158,50.077813921273,8.236045029311,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Wiesbaden,Kreisfreie Stadt,Hessen,Frauenhaus,False,False,False,False
 Frauenhaus EN,2073,51.4438167,7.3417483,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Ennepe-Ruhr-Kreis,Kreis,Nordrhein-Westfalen,Frauenhaus,False,False,False,False
-Frauen helfen Frauen e.V.,2275,47.915446386913,11.423220582099,2022-12-25 08:01:00,Aufnahme möglich für Frauen mit 3 Kindern,Aufnahme möglich für Frauen mit mehreren Kindern,Bad Tölz-Wolfratshausen,Landkreis,Bayern,Frauenhaus,True,False,False,False
+Frauen helfen Frauen e.V.,2275,47.915446386913,11.423220582099,2022-12-25 08:01:00,Aufnahme möglich für Frauen mit 3 Kindern,Aufnahme möglich,Bad Tölz-Wolfratshausen,Landkreis,Bayern,Frauenhaus,True,False,False,False
 Wolfsburger Frauenhaus,2383,52.421175871211,10.79371507002,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Wolfsburg,Kreisfreie Stadt,Niedersachsen,Frauenhaus,False,False,False,False
 Frauenhaus Zollernalbkreis,2046,48.269484562955,8.94737584922,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Zollernalbkreis,Landkreis,Baden-Württemberg,Frauenhaus,False,False,False,False
 Frauen- und Kinderschutzhaus Konstanz,2408,47.681740847498,9.158822455441,2022-12-25 08:01:00,k.A.,keine Angabe,Konstanz,Landkreis,Baden-Württemberg,Frauenhaus,False,False,False,False
 Frauenhaus Lila Villa e.V.,2409,49.4612447,8.1705981,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Bad Dürkheim,Landkreis,Rheinland-Pfalz,Frauenhaus,False,False,False,False
 Frauenhaus Ludwigshafen,2415,49.479714236326,8.449962862506,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Ludwigshafen am Rhein,Kreisfreie Stadt,Rheinland-Pfalz,Frauenhaus,False,False,False,False
 Frauenhaus Worms,2410,49.6238729,8.359877471689,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Worms,Kreisfreie Stadt,Rheinland-Pfalz,Frauenhaus,False,False,False,False
+Frauenhaus Westerwald,2416,50.66442060915,7.821671710156,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Westerwaldkreis,Landkreis,Rheinland-Pfalz,Frauenhaus,False,False,False,False
 "Frauen und Kinderschutzhaus Baden-Baden, Landkreis Rastatt",2432,48.766436,8.244599718105,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Baden-Baden,Stadtkreis,Baden-Württemberg,Frauenhaus,False,False,False,False
 Goslarer Frauenhaus e.V.,2457,51.905936897584,10.429016418709,2022-12-25 08:01:00,k.A.,keine Angabe,Goslar,Landkreis,Niedersachsen,Frauenhaus,False,False,False,False
 Frauenhaus Northeim,2468,51.708197825579,9.999778867737,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Northeim,Landkreis,Niedersachsen,Frauenhaus,False,False,False,False
@@ -158,7 +160,7 @@ Autonomes Frauenhaus Osnabrück,2089,52.274435951938,8.04727121527,2022-12-25 08
 Frauenhaus Paderborn,2023,51.711630197753,8.754784819168,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Paderborn,Kreis,Nordrhein-Westfalen,Frauenhaus,False,False,False,False
 Frauenhaus Rheine,2313,52.275648335048,7.43452908728,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Steinfurt,Kreis,Nordrhein-Westfalen,Frauenhaus,False,False,False,False
 Frauenhaus Hochfranken,2119,50.162945060814,12.134807622047,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Wunsiedel i. Fichtelgebirge,Landkreis,Bayern,Frauenhaus,False,False,False,False
-Frauenhaus Sondershausen,2038,51.3700633,10.8491714,2022-12-25 08:01:00,Aufnahme möglich ohne detaillierte Angabe,Aufnahme möglich ohne detaillierte Angabe,Kyffhäuserkreis,Landkreis,Thüringen,Frauenhaus,False,False,False,False
+Frauenhaus Sondershausen,2038,51.3700633,10.8491714,2022-12-25 08:01:00,Aufnahme möglich ohne detaillierte Angabe,Aufnahme möglich,Kyffhäuserkreis,Landkreis,Thüringen,Frauenhaus,False,False,False,False
 AWO Frauenschutzhaus Stralsund,2172,54.3161903,13.0950601,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Vorpommern-Rügen,Landkreis,Mecklenburg-Vorpommern,Frauenhaus,False,False,False,False
 Frauenhaus Telgte,2133,51.984441708803,7.788351593569,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Warendorf,Kreis,Nordrhein-Westfalen,Frauenhaus,False,False,False,False
 Frauenhaus Unna,2233,51.55022541813,7.691389709733,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Unna,Kreis,Nordrhein-Westfalen,Frauenhaus,True,False,False,False
@@ -214,7 +216,7 @@ Jenaer Frauenhaus e.V.,2272,50.9463598,11.5977589,2022-12-25 08:01:00,Keine Aufn
 Frauenzuflucht Kaiserslautern,2236,49.44167141989,7.76806020992,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Kaiserslautern,Kreisfreie Stadt,Rheinland-Pfalz,Frauenhaus,False,False,False,False
 Frauenhaus Kassel,2165,51.273161334306,9.466445816736,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Kassel,Kreisfreie Stadt,Hessen,Frauenhaus,True,True,False,False
 Autonomes Frauenhaus Kempten (Allgäu),2024,47.762382099999996,10.3245689,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Kempten (Allgäu),Kreisfreie Stadt,Bayern,Frauenhaus,False,False,False,False
-Frauenhaus Köthen,2161,51.75046975,11.988520313845,2022-12-25 08:01:00,Aufnahme möglich ohne detaillierte Angabe,Aufnahme möglich ohne detaillierte Angabe,Anhalt-Bitterfeld,Landkreis,Sachsen-Anhalt,Frauenhaus,False,False,False,False
+Frauenhaus Köthen,2161,51.75046975,11.988520313845,2022-12-25 08:01:00,Aufnahme möglich ohne detaillierte Angabe,Aufnahme möglich,Anhalt-Bitterfeld,Landkreis,Sachsen-Anhalt,Frauenhaus,False,False,False,False
 Frauen- und Kinderschutzhaus Krefeld,2229,51.331785882029,6.558523443055,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Krefeld,Kreisfreie Stadt,Nordrhein-Westfalen,Frauenhaus,False,False,False,False
 AWO Frauenhaus Landshut,2187,48.53761662542,12.153462601108,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Landshut,Kreisfreie Stadt,Bayern,Frauenhaus,False,False,False,False
 Caritas Frauenhaus Landshut,2218,48.538071270726,12.162603569431,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Landshut,Kreisfreie Stadt,Bayern,Frauenhaus,False,False,False,False
@@ -224,7 +226,7 @@ Frauenhaus Meiningen,2057,50.565930470512,10.408470644478,2022-12-25 08:01:00,Ke
 Frauen- und Kinderschutzhaus Merseburg,2030,51.3568506,11.9904345,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Saalekreis,Landkreis,Sachsen-Anhalt,Frauenhaus,False,False,False,False
 Frauen- und Kinderschutzhaus Moers,2330,51.446276386047,6.636759749098,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Wesel,Kreis,Nordrhein-Westfalen,Frauenhaus,False,False,False,False
 Frauen- und Kinderschutzhaus Neubrandenburg,2216,53.557445799999996,13.2602781,2022-12-25 08:01:00,k.A.,keine Angabe,Mecklenburgische Seenplatte,Landkreis,Mecklenburg-Vorpommern,Frauenhaus,False,False,False,False
-Frauenhaus Neunkirchen,2010,49.37167025,7.207534594691,2022-12-25 08:01:00,Aufnahme möglich ohne detaillierte Angabe,Aufnahme möglich ohne detaillierte Angabe,Neunkirchen,Landkreis,Saarland,Frauenhaus,False,False,False,False
+Frauenhaus Neunkirchen,2010,49.37167025,7.207534594691,2022-12-25 08:01:00,Aufnahme möglich ohne detaillierte Angabe,Aufnahme möglich,Neunkirchen,Landkreis,Saarland,Frauenhaus,False,False,False,False
 Frauenhaus,2401,52.6380924,9.2084155,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Nienburg (Weser),Landkreis,Niedersachsen,Frauenhaus,False,False,False,False
 Frauenhaus Oberhausen,2134,51.466433645076,6.858153386625,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Oberhausen,Kreisfreie Stadt,Nordrhein-Westfalen,Frauenhaus,False,False,False,False
 Ökumenisches Frauenhaus Pforzheim,2204,48.8667572,8.7531246,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Pforzheim,Stadtkreis,Baden-Württemberg,Frauenhaus,False,False,False,False
@@ -240,7 +242,6 @@ Frauenhaus im Landkreis Schwandorf,2195,49.3263177,12.1038045,2022-12-25 08:01:0
 Frauenhaus Schwarzenbek,2263,53.503650426025,10.483866451312,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Herzogtum Lauenburg,Kreis,Schleswig-Holstein,Frauenhaus,False,False,False,False
 Frauenhaus für die Region Main-Rhön in Schweinfurt,2054,50.04723375,10.224025804585,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Schweinfurt,Kreisfreie Stadt,Bayern,Frauenhaus,False,False,False,False
 Frauen in Not-Frauenhaus,2061,53.627833083723,11.405380088953,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Schwerin,Kreisfreie Stadt,Mecklenburg-Vorpommern,Frauenhaus,True,True,True,False
-Frauenhaus Singen,2237,47.762044359329,8.853405053013,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Konstanz,Landkreis,Baden-Württemberg,Frauenhaus,False,False,False,False
 AWO Frauenhaus Schaumburg,2353,52.31830254248,9.204289693607,2022-12-25 08:01:00,k.A.,keine Angabe,Schaumburg,Landkreis,Niedersachsen,Frauenhaus,False,False,False,False
 Frauen- und Kinderschutzhaus Staßfurt,2175,51.846982652569,11.592657358624,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Salzlandkreis,Landkreis,Sachsen-Anhalt,Frauenhaus,False,False,False,False
 Frauen-und Kinderschutzhaus Tuttlingen,2254,47.978972871,8.814629638902,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Tuttlingen,Landkreis,Baden-Württemberg,Frauenhaus,False,False,False,False
@@ -255,13 +256,12 @@ Frauenhaus SkF,2117,49.7646014,9.9055338,2022-12-25 08:01:00,Keine Aufnahme mög
 Frauenschutzeinrichtung Zwickau Stadt,2044,50.726853592716,12.490858252887,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Zwickau,Landkreis,Sachsen,Schutzwohnung,False,False,False,False
 Frauenhaus,2407,49.9194456,8.4852426,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Groß-Gerau,Landkreis,Hessen,Frauenhaus,False,False,False,False
 Frauenhaus Mainz,2411,49.986824590308,8.271431806591,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Mainz,Kreisfreie Stadt,Rheinland-Pfalz,Frauenhaus,False,False,False,False
-Frauenhaus Westerwald,2416,50.66442060915,7.821671710156,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Westerwaldkreis,Landkreis,Rheinland-Pfalz,Frauenhaus,False,False,False,False
 Frauenhaus Freising,2422,48.399763713312,11.735230175261,2022-12-25 08:01:00,k.A.,keine Angabe,Freising,Landkreis,Bayern,Frauenhaus,False,False,False,False
 Frauen- und Kinderschutzhaus Heidenheim,2481,48.68534546242,10.140460950757,2022-12-25 08:01:00,Keine Aufnahme möglich,Keine Aufnahme möglich,Heidenheim,Landkreis,Baden-Württemberg,Frauenhaus,False,True,False,False
 Frauenhaus Bremerhaven,2369,53.529776471842,8.622328260819,2022-12-25 08:01:00,k.A.,keine Angabe,Bremerhaven,Kreisfreie Stadt,Bremen,Frauenhaus,False,False,False,False
 Frauenhaus Chemnitz,2099,50.832365999642,12.920172846924,2022-12-25 08:01:00,k.A.,keine Angabe,Chemnitz,Kreisfreie Stadt,Sachsen,Frauenhaus,True,False,False,False
 1. &amp 3. Hamburger Frauenhaus,2382,53.5528284,9.9966396,2022-12-25 08:01:00,k.A.,keine Angabe,Hamburg,Kreisfreie Stadt,Hamburg,Frauenhaus,True,False,False,False
-Sofortaufnahme für gewaltbetroffene Frauen und ihre Kinder - Frauenhaus24 Hannover,2011,52.377057435404,9.736999308768,2022-12-25 08:01:00,Aufnahme möglich ohne detaillierte Angabe,Aufnahme möglich ohne detaillierte Angabe,Region Hannover,Landkreis,Niedersachsen,,True,False,False,False
+Sofortaufnahme für gewaltbetroffene Frauen und ihre Kinder - Frauenhaus24 Hannover,2011,52.377057435404,9.736999308768,2022-12-25 08:01:00,Aufnahme möglich ohne detaillierte Angabe,Aufnahme möglich,Region Hannover,Landkreis,Niedersachsen,,True,False,False,False
 Frauen- und Kinderschutzhaus Radebeul,2045,51.1031702,13.6215949,2022-12-25 08:01:00,k.A.,keine Angabe,Meißen,Landkreis,Sachsen,Frauenhaus,False,False,False,False
 Frauenhaus Stendal,2028,52.605557128017,11.847668159234999,2022-12-25 08:01:00,k.A.,keine Angabe,Stendal,Landkreis,Sachsen-Anhalt,Frauenhaus,False,False,False,False
 Frauen-und Kinderschutzwohnung &quotZuflucht&quot Lk Görlitz,2338,50.883994699653,14.806442202914,2022-12-25 08:01:00,k.A.,keine Angabe,Görlitz,Landkreis,Sachsen,Schutzwohnung,False,False,False,False
