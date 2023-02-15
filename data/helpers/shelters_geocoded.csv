@@ -61,6 +61,7 @@ Frauenhaus EN,2073,51.4438167,7.3417483,Ennepe-Ruhr-Kreis,Kreis,DEA56,DEA,Nordrh
 Frauen helfen Frauen e.V.,2153,51.283777950273,7.143748029476,Wuppertal,Kreisfreie Stadt,DEA1A,DEA,Nordrhein-Westfalen
 Frauenhaus Düsseldorf,2419,51.2418056,6.8082556,Düsseldorf,Kreisfreie Stadt,DEA11,DEA,Nordrhein-Westfalen
 Frauen- und Kinderschutzhaus,2423,51.502765616284,9.117780029782,Höxter,Kreis,DEA44,DEA,Nordrhein-Westfalen
+Frauenhaus Düren,2524,50.807137918709,6.478334715405,Düren,Kreis,DEA26,DEA,Nordrhein-Westfalen
 Frauenhaus Stormarn,2343,53.674312919727,10.231099789877,Stormarn,Kreis,DEF0F,DEF,Schleswig-Holstein
 Schutzwohnungen für Frauen Nordfriesland,2178,54.62104206325,8.969772242358,Nordfriesland,Kreis,DEF07,DEF,Schleswig-Holstein
 Autonomes Frauenhaus Elmshorn,2049,53.7542251,9.6592636,Pinneberg,Kreis,DEF09,DEF,Schleswig-Holstein
@@ -68,6 +69,7 @@ Frauenhaus Ostholstein,2189,54.119768481237,10.631741869357,Ostholstein,Kreis,DE
 Frauenhaus Flensburg,2255,54.79485029629,9.423378659978,Flensburg,Kreisfreie Stadt,DEF01,DEF,Schleswig-Holstein
 Frauenhaus Dithmarschen,2395,54.193570221951,9.100838263545,Dithmarschen,Kreis,DEF05,DEF,Schleswig-Holstein
 Autonomes Frauenhaus Itzehoe,2193,53.9242344,9.5100452,Steinburg,Kreis,DEF0E,DEF,Schleswig-Holstein
+Frauenhaus Kiel,2106,54.32269725,10.144833031145,Kiel,Kreisfreie Stadt,DEF02,DEF,Schleswig-Holstein
 Autonomes Frauenhaus Lübeck,2249,53.867549231603,10.687671111421,Lübeck,Kreisfreie Stadt,DEF03,DEF,Schleswig-Holstein
 Frauenhaus Hartengrube,2284,53.861924849136,10.683346452091,Lübeck,Kreisfreie Stadt,DEF03,DEF,Schleswig-Holstein
 Autonomes Frauenhaus Neumünster,2063,54.074247318196,9.984462815518,Neumünster,Kreisfreie Stadt,DEF04,DEF,Schleswig-Holstein
@@ -219,6 +221,7 @@ AWO-Frauenhaus im Landkreis Harburg,2386,53.360527316544,9.825140798087,Harburg,
 Autonomes Frauenhaus Celle,2041,52.620867,10.0626059,Celle,Landkreis,DE931,DE9,Niedersachsen
 Frauenhaus Emden,2088,53.366076745762,7.207059748026,Emden,Kreisfreie Stadt,DE942,DE9,Niedersachsen
 Frauenhaus des Caritasverbandes für Stadt und Landkreis Gifhorn,2285,52.484496766686,10.540274633294,Gifhorn,Landkreis,DE914,DE9,Niedersachsen
+Frauenhaus Göttingen e.V.,2040,51.541854251387,9.915940340137,Göttingen,Landkreis,DE91C,DE9,Niedersachsen
 Frauenhaus Hameln e.V.,2113,52.105920892881,9.364572592101,Hameln-Pyrmont,Landkreis,DE923,DE9,Niedersachsen
 Frauen- und Kinderschutzhaus Hannover,2085,52.365613497692,9.755097172235,Region Hannover,Landkreis,DE929,DE9,Niedersachsen
 Sofortaufnahme für gewaltbetroffene Frauen und ihre Kinder - Frauenhaus24 Hannover,2011,52.377057435404,9.736999308768,Region Hannover,Landkreis,DE929,DE9,Niedersachsen
@@ -240,6 +243,7 @@ Frauen- und Kinderschutzhaus des Landkreises Oldenburg,2429,52.903874494874,8.44
 Goslarer Frauenhaus e.V.,2457,51.905936897584,10.429016418709,Goslar,Landkreis,DE916,DE9,Niedersachsen
 Frauenhaus Northeim,2468,51.708197825579,9.999778867737,Northeim,Landkreis,DE918,DE9,Niedersachsen
 Frauenhaus Gifhorn,2513,52.5031666,10.5145813,Gifhorn,Landkreis,DE914,DE9,Niedersachsen
+Frauenhaus Osterode,2522,51.7293769,10.2580311,Göttingen,Landkreis,DE91C,DE9,Niedersachsen
 Frauen- und Kinderschutzhaus Baden-Baden u. Landkreis Rastatt,2186,48.776510561174,8.2181331745,Baden-Baden,Stadtkreis,DE121,DE1,Baden-Württemberg
 Beratung für Frauen/Frauenschutzhaus Biberach,2360,48.093565642996,9.786809486456,Biberach,Landkreis,DE146,DE1,Baden-Württemberg
 Frauenhäuser Geschütztes Wohnen,2327,49.104470848914,8.5913541328,Karlsruhe,Landkreis,DE123,DE1,Baden-Württemberg
@@ -248,6 +252,7 @@ Frauenhaus Esslingen,2065,48.741421196937,9.310220283594,Esslingen,Landkreis,DE1
 Frauen - und Kinderschutzhaus Filder,2080,48.663256354141,9.219398527189,Esslingen,Landkreis,DE113,DE1,Baden-Württemberg
 Frauen- und Kinderschutzhaus Freiburg,2092,48.0327354,7.857524774655,Freiburg im Breisgau,Stadtkreis,DE131,DE1,Baden-Württemberg
 Frauenhaus Freudenstadt,2215,48.473534333796,8.420503660913,Freudenstadt,Landkreis,DE12C,DE1,Baden-Württemberg
+AWO Frauen- und Kinderschutzhaus Bodenseekreis,2333,47.638670429344,9.466205664648,Bodenseekreis,Kreis,DE147,DE1,Baden-Württemberg
 HerA,2164,48.708166939802,9.652732009254,Göppingen,Landkreis,DE114,DE1,Baden-Württemberg
 Frauen- und Kinderhilfe Göppingen,2097,48.705872999684,9.649685019812999,Göppingen,Landkreis,DE114,DE1,Baden-Württemberg
 Frauen helfen Frauen e.V. Heidelberg,2152,49.38167105,8.677039550252,Heidelberg,Stadtkreis,DE125,DE1,Baden-Württemberg
@@ -294,6 +299,7 @@ Frauenhaus Greifswald,2146,54.08939506011,13.379945601414,Vorpommern-Greifswald,
 Frauenschutzhaus,2219,53.793364322518,12.181076883324,Rostock,Landkreis,DE80K,DE8,Mecklenburg-Vorpommern
 AWO Frauenhaus Ludwigslust,2148,53.3244914,11.4969238,Ludwigslust-Parchim,Landkreis,DE80O,DE8,Mecklenburg-Vorpommern
 Frauen- und Kinderschutzhaus Neubrandenburg,2216,53.557445799999996,13.2602781,Mecklenburgische Seenplatte,Landkreis,DE80J,DE8,Mecklenburg-Vorpommern
+AWO Frauenschutzhaus Ribnitz-Damgarten,2205,54.246655583916,12.432371524065,Vorpommern-Rügen,Kreis,DE80L,DE8,Mecklenburg-Vorpommern
 Autonomes Frauenhaus Rostock,2163,54.052138471041,12.10428681682,Rostock,Landkreis,DE80K,DE8,Mecklenburg-Vorpommern
 Frauen in Not-Frauenhaus,2061,53.627833083723,11.405380088953,Schwerin,Kreisfreie Stadt,DE804,DE8,Mecklenburg-Vorpommern
 AWO Frauenschutzhaus Stralsund,2172,54.3161903,13.0950601,Vorpommern-Rügen,Landkreis,DE80L,DE8,Mecklenburg-Vorpommern

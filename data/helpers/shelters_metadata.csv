@@ -61,6 +61,7 @@ shelter_id,title,einrichtungsart,Gehbehinderung,Hörbehinderung/Taubheit,Sehbehi
 2327,Frauenhäuser Geschütztes Wohnen,Frauenhaus,True,False,False,False
 2386,AWO-Frauenhaus im Landkreis Harburg,Frauenhaus,False,False,False,False
 2307,DRk Frauenschutzhaus Burg,Frauenhaus,False,False,False,False
+2533,AWO Frauenhaus Burgdorf,Frauenhaus,False,False,False,False
 2252,Frauenhaus Burghausen,Frauenhaus,False,False,False,False
 2100,Frauenhaus im Landkreis Calw,Frauenhaus,False,False,False,False
 2041,Autonomes Frauenhaus Celle,Frauenhaus,False,False,False,False
@@ -327,3 +328,6 @@ shelter_id,title,einrichtungsart,Gehbehinderung,Hörbehinderung/Taubheit,Sehbehi
 2338,&quotZuflucht&quot Frauen-und Kinderschutzwohnungen  Landkreis Görlitz,Schutzwohnung,False,False,False,False
 2046,Frauenhaus Zollernalbkreis,Frauenhaus,False,False,False,False
 2044,Frauenschutzeinrichtung Zwickau Stadt,Schutzwohnung,False,False,False,False
+2499,Frauenhaus Gifhorn,Frauenhaus,False,False,False,False
+2064,Frauenhaus Hagen,Frauenhaus,True,False,False,False
+2467,Schutzwohnung für Senioren (ab 60 Jahren alt) im Rhein-Neckar-Kreis,Schutzwohnung,True,False,False,False
