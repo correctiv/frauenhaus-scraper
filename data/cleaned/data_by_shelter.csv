@@ -1,201 +1,197 @@
 shelter_name,Aufnahme möglich,keine Angabe,keine Aufnahme möglich,bundesland,kreis
-1. Autonomes Frauenhaus,0.7945205479452054,0.0,0.2054794520547945,Sachsen,Kreisfreie Stadt Leipzig
-1. Frauenhaus Köln,0.024657534246575342,0.0,0.9753424657534246,Nordrhein-Westfalen,Kreisfreie Stadt Köln
-2. Autonomes Frauenhaus Köln,0.04657534246575343,0.0,0.9534246575342465,Nordrhein-Westfalen,Kreisfreie Stadt Köln
-4. Frauen*- und Kinderschutzhaus Leipzig,0.3780821917808219,0.0,0.6219178082191781,Sachsen,Kreisfreie Stadt Leipzig
-AWO Frauen- und Kinderschutzhaus Bodenseekreis,0.0,0.0,1.0,Baden-Württemberg,Kreis Bodenseekreis
-AWO Frauenhaus &quotLotte Lemke&quot,0.16712328767123288,0.0,0.8328767123287671,Hessen,Landkreis Hochtaunuskreis
-AWO Frauenhaus Bielefeld,0.1780821917808219,0.0,0.821917808219178,Nordrhein-Westfalen,Kreisfreie Stadt Bielefeld
-AWO Frauenhaus Iserlohn,0.2876712328767123,0.0,0.7123287671232876,Nordrhein-Westfalen,Kreis Märkischer Kreis
+1. Autonomes Frauenhaus,0.5769230769230769,0.0,0.4230769230769231,Sachsen,Kreisfreie Stadt Leipzig
+1. Frauenhaus Köln,0.031135531135531136,0.0,0.9688644688644689,Nordrhein-Westfalen,Kreisfreie Stadt Köln
+2. Autonomes Frauenhaus Köln,0.04945054945054945,0.0,0.9505494505494505,Nordrhein-Westfalen,Kreisfreie Stadt Köln
+4. Frauen*- und Kinderschutzhaus Leipzig,0.25274725274725274,0.0,0.7472527472527473,Sachsen,Kreisfreie Stadt Leipzig
+AWO Frauen- und Kinderschutzhaus Bodenseekreis,0.009157509157509158,0.0,0.9908424908424909,Baden-Württemberg,Kreis Bodenseekreis
+AWO Frauenhaus &quotLotte Lemke&quot,0.12637362637362637,0.0,0.8736263736263736,Hessen,Landkreis Hochtaunuskreis
+AWO Frauenhaus Bielefeld,0.1391941391941392,0.0,0.8608058608058609,Nordrhein-Westfalen,Kreisfreie Stadt Bielefeld
+AWO Frauenhaus Iserlohn,0.2838827838827839,0.0,0.7161172161172161,Nordrhein-Westfalen,Kreis Märkischer Kreis
 AWO Frauenhaus Landshut,0.0,0.0,1.0,Bayern,Kreisfreie Stadt Landshut
-AWO Frauenhaus Ludwigslust,0.14520547945205478,0.06575342465753424,0.7890410958904109,Mecklenburg-Vorpommern,Landkreis Ludwigslust-Parchim
+AWO Frauenhaus Ludwigslust,0.09706959706959707,0.11355311355311355,0.7893772893772893,Mecklenburg-Vorpommern,Landkreis Ludwigslust-Parchim
 AWO Frauenhaus Nurdan-Eker Wiesbaden,0.0,0.0,1.0,Hessen,Kreisfreie Stadt Wiesbaden
-AWO Frauenhaus Schwalm-Eder,0.10684931506849316,0.0,0.8931506849315068,Hessen,Landkreis Schwalm-Eder-Kreis
-AWO Frauenschutzhaus Ribnitz-Damgarten,0.29863013698630136,0.0273972602739726,0.673972602739726,Mecklenburg-Vorpommern,Kreis Vorpommern-Rügen
-AWO Frauenschutzhaus Stralsund,0.5013698630136987,0.03561643835616438,0.46301369863013697,Mecklenburg-Vorpommern,Landkreis Vorpommern-Rügen
-AWO-Frauenhaus,0.057534246575342465,0.0,0.9424657534246575,Nordrhein-Westfalen,Kreis Kleve
-AWO-Frauenhaus-Bottrop,0.13424657534246576,0.0,0.8657534246575342,Nordrhein-Westfalen,Kreisfreie Stadt Bottrop
-Autonomes Frauenhaus,0.04657534246575343,0.0,0.9534246575342465,Hessen,Landkreis Waldeck-Frankenberg
-Autonomes Frauenhaus,0.049315068493150684,0.0,0.9506849315068493,Hessen,Landkreis Main-Kinzig-Kreis
-Autonomes Frauenhaus Bielefeld,0.005479452054794521,0.0,0.9945205479452055,Nordrhein-Westfalen,Kreisfreie Stadt Bielefeld
-Autonomes Frauenhaus Celle,0.1589041095890411,0.00821917808219178,0.8328767123287671,Niedersachsen,Landkreis Celle
-Autonomes Frauenhaus Dortmund,0.18082191780821918,0.0,0.8191780821917808,Nordrhein-Westfalen,Kreisfreie Stadt Dortmund
-Autonomes Frauenhaus Duisburg,0.10136986301369863,0.0,0.8986301369863013,Nordrhein-Westfalen,Kreisfreie Stadt Duisburg
-Autonomes Frauenhaus Elmshorn,0.07945205479452055,0.0,0.9205479452054794,Schleswig-Holstein,Kreis Pinneberg
-Autonomes Frauenhaus Frankfurt,0.27945205479452057,0.0,0.7205479452054795,Hessen,Kreisfreie Stadt Frankfurt am Main
-Autonomes Frauenhaus Gießen,0.11506849315068493,0.0,0.8849315068493151,Hessen,Landkreis Gießen
-Autonomes Frauenhaus Heilbronn,0.03287671232876712,0.07123287671232877,0.8958904109589041,Baden-Württemberg,Stadtkreis Heilbronn
-Autonomes Frauenhaus Itzehoe,0.030136986301369864,0.0,0.9698630136986301,Schleswig-Holstein,Kreis Steinburg
-Autonomes Frauenhaus Kempten (Allgäu),0.0,0.0,1.0,Bayern,Kreisfreie Stadt Kempten (Allgäu)
-Autonomes Frauenhaus Kreis Plön,0.1232876712328767,0.0,0.8767123287671232,Schleswig-Holstein,Kreis Plön
-Autonomes Frauenhaus Leverkusen,0.03561643835616438,0.0,0.9643835616438357,Nordrhein-Westfalen,Kreisfreie Stadt Leverkusen
+AWO Frauenhaus Schwalm-Eder,0.1794871794871795,0.0,0.8205128205128205,Hessen,Landkreis Schwalm-Eder-Kreis
+AWO Frauenschutzhaus Stralsund,0.33516483516483514,0.056776556776556776,0.608058608058608,Mecklenburg-Vorpommern,Landkreis Vorpommern-Rügen
+AWO-Frauenhaus,0.05128205128205128,0.0,0.9487179487179487,Nordrhein-Westfalen,Kreis Kleve
+AWO-Frauenhaus-Bottrop,0.09706959706959707,0.0,0.9029304029304029,Nordrhein-Westfalen,Kreisfreie Stadt Bottrop
+Autonomes Frauenhaus,0.07142857142857142,0.0,0.9285714285714286,Hessen,Landkreis Waldeck-Frankenberg
+Autonomes Frauenhaus,0.04945054945054945,0.0,0.9505494505494505,Hessen,Landkreis Main-Kinzig-Kreis
+Autonomes Frauenhaus Bielefeld,0.029304029304029304,0.0,0.9706959706959707,Nordrhein-Westfalen,Kreisfreie Stadt Bielefeld
+Autonomes Frauenhaus Celle,0.17032967032967034,0.005494505494505495,0.8241758241758241,Niedersachsen,Landkreis Celle
+Autonomes Frauenhaus Dortmund,0.14285714285714285,0.0,0.8571428571428571,Nordrhein-Westfalen,Kreisfreie Stadt Dortmund
+Autonomes Frauenhaus Duisburg,0.08241758241758242,0.0,0.9175824175824175,Nordrhein-Westfalen,Kreisfreie Stadt Duisburg
+Autonomes Frauenhaus Elmshorn,0.056776556776556776,0.0,0.9432234432234432,Schleswig-Holstein,Kreis Pinneberg
+Autonomes Frauenhaus Frankfurt,0.24358974358974358,0.0,0.7564102564102564,Hessen,Kreisfreie Stadt Frankfurt am Main
+Autonomes Frauenhaus Gießen,0.10989010989010989,0.0,0.8901098901098901,Hessen,Landkreis Gießen
+Autonomes Frauenhaus Heilbronn,0.029304029304029304,0.047619047619047616,0.9230769230769231,Baden-Württemberg,Stadtkreis Heilbronn
+Autonomes Frauenhaus Itzehoe,0.02564102564102564,0.0,0.9743589743589743,Schleswig-Holstein,Kreis Steinburg
+Autonomes Frauenhaus Kempten (Allgäu),0.0,0.047619047619047616,0.9523809523809523,Bayern,Kreisfreie Stadt Kempten (Allgäu)
+Autonomes Frauenhaus Kreis Plön,0.13003663003663005,0.031135531135531136,0.8388278388278388,Schleswig-Holstein,Kreis Plön
+Autonomes Frauenhaus Leverkusen,0.04395604395604396,0.0,0.9560439560439561,Nordrhein-Westfalen,Kreisfreie Stadt Leverkusen
 Autonomes Frauenhaus Lübeck,0.0,0.0,1.0,Schleswig-Holstein,Kreisfreie Stadt Lübeck
-Autonomes Frauenhaus Lüneburg,0.0,0.0,1.0,Niedersachsen,Landkreis Lüneburg
-Autonomes Frauenhaus Marburg,0.136986301369863,0.0,0.863013698630137,Hessen,Landkreis Marburg-Biedenkopf
-Autonomes Frauenhaus Münster,0.01643835616438356,0.0,0.9835616438356164,Nordrhein-Westfalen,Kreisfreie Stadt Münster
-Autonomes Frauenhaus Neumünster,0.0684931506849315,0.0,0.9315068493150684,Schleswig-Holstein,Kreisfreie Stadt Neumünster
-Autonomes Frauenhaus Osnabrück,0.0547945205479452,0.0,0.9452054794520548,Niedersachsen,Kreisfreie Stadt Osnabrück
-Autonomes Frauenhaus Rheydt,0.0410958904109589,0.0,0.958904109589041,Nordrhein-Westfalen,Kreisfreie Stadt Mönchengladbach
-Autonomes Frauenhaus Rostock,0.0958904109589041,0.0,0.9041095890410958,Mecklenburg-Vorpommern,Landkreis Rostock
-Autonomes Frauenhaus Stuttgart,0.07123287671232877,0.0,0.9287671232876712,Baden-Württemberg,Stadtkreis Stuttgart
-Autonomes Frauenhaus Trier,0.1232876712328767,0.0,0.7150684931506849,Rheinland-Pfalz,Kreisfreie Stadt Trier
-Autonomes Frauenhaus Tübingen,0.10684931506849316,0.0,0.8931506849315068,Baden-Württemberg,Landkreis Tübingen
-Autonomes Frauenhaus Wedel,0.024657534246575342,0.0,0.9753424657534246,Schleswig-Holstein,Kreis Pinneberg
-Caritas Frauenhaus Landshut,0.0,0.0,1.0,Bayern,Kreisfreie Stadt Landshut
-DRk Frauenschutzhaus Burg,0.136986301369863,0.0,0.863013698630137,Sachsen-Anhalt,Landkreis Jerichower Land
-Frauen - und Kinderschutzhaus,0.06301369863013699,0.0,0.936986301369863,Hessen,Landkreis Darmstadt-Dieburg
-Frauen - und Kinderschutzhaus Filder,0.0273972602739726,0.0,0.9726027397260274,Baden-Württemberg,Landkreis Esslingen
-Frauen helfen Frauen e.V.,0.06301369863013699,0.0,0.936986301369863,Nordrhein-Westfalen,Kreisfreie Stadt Wuppertal
-Frauen helfen Frauen e.V.,0.19452054794520549,0.0,0.8054794520547945,Bayern,Landkreis Bad Tölz-Wolfratshausen
-Frauen helfen Frauen e.V. Dinslaken,0.20273972602739726,0.0,0.7972602739726027,Nordrhein-Westfalen,Kreis Wesel
-Frauen helfen Frauen e.V. Heidelberg,0.15342465753424658,0.0,0.8465753424657534,Baden-Württemberg,Stadtkreis Heidelberg
-"Frauen und Kinderschutzhaus Baden-Baden, Landkreis Rastatt",0.1178082191780822,0.07945205479452055,0.6164383561643836,Baden-Württemberg,Stadtkreis Baden-Baden
-Frauen- und Kinderhaus Offenbach,0.038356164383561646,0.0,0.9616438356164384,Hessen,Kreisfreie Stadt Offenbach am Main
+Autonomes Frauenhaus Marburg,0.10073260073260074,0.0,0.8992673992673993,Hessen,Landkreis Marburg-Biedenkopf
+Autonomes Frauenhaus Münster,0.06593406593406594,0.0,0.9340659340659341,Nordrhein-Westfalen,Kreisfreie Stadt Münster
+Autonomes Frauenhaus Neumünster,0.045787545787545784,0.0,0.9542124542124543,Schleswig-Holstein,Kreisfreie Stadt Neumünster
+Autonomes Frauenhaus Osnabrück,0.05128205128205128,0.0,0.9487179487179487,Niedersachsen,Kreisfreie Stadt Osnabrück
+Autonomes Frauenhaus Regensburg,0.1794871794871795,0.1684981684981685,0.652014652014652,Bayern,Kreisfreie Stadt Regensburg
+Autonomes Frauenhaus Rheydt,0.04212454212454213,0.0,0.9578754578754579,Nordrhein-Westfalen,Kreisfreie Stadt Mönchengladbach
+Autonomes Frauenhaus Rostock,0.07875457875457875,0.0,0.9212454212454212,Mecklenburg-Vorpommern,Landkreis Rostock
+Autonomes Frauenhaus Stuttgart,0.047619047619047616,0.0,0.9523809523809523,Baden-Württemberg,Stadtkreis Stuttgart
+Autonomes Frauenhaus Trier,0.08241758241758242,0.0,0.8095238095238095,Rheinland-Pfalz,Kreisfreie Stadt Trier
+Autonomes Frauenhaus Tübingen,0.08974358974358974,0.0,0.9102564102564102,Baden-Württemberg,Landkreis Tübingen
+Autonomes Frauenhaus Wedel,0.016483516483516484,0.0,0.9835164835164835,Schleswig-Holstein,Kreis Pinneberg
+Caritas Frauenhaus Landshut,0.0,0.11904761904761904,0.8809523809523809,Bayern,Kreisfreie Stadt Landshut
+DRk Frauenschutzhaus Burg,0.33516483516483514,0.0,0.6648351648351648,Sachsen-Anhalt,Landkreis Jerichower Land
+Frauen - und Kinderschutzhaus,0.06776556776556776,0.0,0.9322344322344323,Hessen,Landkreis Darmstadt-Dieburg
+Frauen - und Kinderschutzhaus Filder,0.02564102564102564,0.0,0.9743589743589743,Baden-Württemberg,Landkreis Esslingen
+Frauen helfen Frauen e.V.,0.08058608058608059,0.0,0.9194139194139194,Nordrhein-Westfalen,Kreisfreie Stadt Wuppertal
+Frauen helfen Frauen e.V.,0.16483516483516483,0.0,0.8351648351648352,Bayern,Landkreis Bad Tölz-Wolfratshausen
+Frauen helfen Frauen e.V. Dinslaken,0.15018315018315018,0.0,0.8498168498168498,Nordrhein-Westfalen,Kreis Wesel
+Frauen helfen Frauen e.V. Heidelberg,0.12087912087912088,0.0,0.8791208791208791,Baden-Württemberg,Stadtkreis Heidelberg
+"Frauen und Kinderschutzhaus Baden-Baden, Landkreis Rastatt",0.10805860805860806,0.05311355311355311,0.7142857142857143,Baden-Württemberg,Stadtkreis Baden-Baden
+Frauen- und Kinderhaus Offenbach,0.06776556776556776,0.0,0.9322344322344323,Hessen,Kreisfreie Stadt Offenbach am Main
 Frauen- und Kinderschutzhaus,0.0,0.0,1.0,Bayern,Kreisfreie Stadt Regensburg
-Frauen- und Kinderschutzhaus,0.3315068493150685,0.0,0.6684931506849315,Nordrhein-Westfalen,Kreis Coesfeld
-Frauen- und Kinderschutzhaus,0.16164383561643836,0.0,0.7506849315068493,Nordrhein-Westfalen,Kreis Höxter
-Frauen- und Kinderschutzhaus Aachen,0.4273972602739726,0.0,0.5726027397260274,Nordrhein-Westfalen,Kreis Städteregion Aachen
-Frauen- und Kinderschutzhaus Ballenstedt,0.6328767123287671,0.0,0.36712328767123287,Sachsen-Anhalt,Landkreis Harz
-Frauen- und Kinderschutzhaus Bay. Untermain,0.010958904109589041,0.08767123287671233,0.9013698630136986,Bayern,Kreisfreie Stadt Aschaffenburg
-Frauen- und Kinderschutzhaus Dorsten,0.19452054794520549,0.0,0.8054794520547945,Nordrhein-Westfalen,Kreis Recklinghausen
-Frauen- und Kinderschutzhaus Freiburg,0.0,0.0,1.0,Baden-Württemberg,Stadtkreis Freiburg im Breisgau
-Frauen- und Kinderschutzhaus Heckertstift,0.3424657534246575,0.0,0.5150684931506849,Baden-Württemberg,Stadtkreis Mannheim
-Frauen- und Kinderschutzhaus Heilbronn,0.043835616438356165,0.0,0.9561643835616438,Baden-Württemberg,Stadtkreis Heilbronn
-Frauen- und Kinderschutzhaus Krefeld,0.14520547945205478,0.0,0.8547945205479452,Nordrhein-Westfalen,Kreisfreie Stadt Krefeld
-Frauen- und Kinderschutzhaus Kreis Viersen,0.11506849315068493,0.0,0.8849315068493151,Nordrhein-Westfalen,Kreis Viersen
-Frauen- und Kinderschutzhaus Landkreis Leipzig,0.25205479452054796,0.0,0.7479452054794521,Sachsen,Landkreis Leipzig
+Frauen- und Kinderschutzhaus,0.2893772893772894,0.0,0.7106227106227107,Nordrhein-Westfalen,Kreis Coesfeld
+Frauen- und Kinderschutzhaus,0.13553113553113552,0.0,0.8058608058608059,Nordrhein-Westfalen,Kreis Höxter
+Frauen- und Kinderschutzhaus Aachen,0.44871794871794873,0.0,0.5512820512820513,Nordrhein-Westfalen,Kreis Städteregion Aachen
+Frauen- und Kinderschutzhaus Ballenstedt,0.45604395604395603,0.0,0.5439560439560439,Sachsen-Anhalt,Landkreis Harz
+Frauen- und Kinderschutzhaus Dorsten,0.163003663003663,0.0,0.836996336996337,Nordrhein-Westfalen,Kreis Recklinghausen
+Frauen- und Kinderschutzhaus Freiburg,0.003663003663003663,0.0,0.9963369963369964,Baden-Württemberg,Stadtkreis Freiburg im Breisgau
+Frauen- und Kinderschutzhaus Heckertstift,0.24725274725274726,0.0,0.6575091575091575,Baden-Württemberg,Stadtkreis Mannheim
+Frauen- und Kinderschutzhaus Heilbronn,0.0695970695970696,0.0,0.9304029304029304,Baden-Württemberg,Stadtkreis Heilbronn
+Frauen- und Kinderschutzhaus Krefeld,0.13736263736263737,0.0,0.8626373626373627,Nordrhein-Westfalen,Kreisfreie Stadt Krefeld
+Frauen- und Kinderschutzhaus Kreis Viersen,0.1282051282051282,0.0,0.8717948717948718,Nordrhein-Westfalen,Kreis Viersen
+Frauen- und Kinderschutzhaus Landkreis Leipzig,0.17399267399267399,0.0,0.826007326007326,Sachsen,Landkreis Leipzig
 Frauen- und Kinderschutzhaus Merseburg,0.0,0.0,1.0,Sachsen-Anhalt,Landkreis Saalekreis
-Frauen- und Kinderschutzhaus Moers,0.052054794520547946,0.0,0.947945205479452,Nordrhein-Westfalen,Kreis Wesel
-Frauen- und Kinderschutzhaus Troisdorf,0.07945205479452055,0.0,0.9205479452054794,Nordrhein-Westfalen,Kreis Rhein-Sieg-Kreis
-Frauen- und Kinderschutzhaus für den Kreis Mettmann,0.09863013698630137,0.0,0.9013698630136986,Nordrhein-Westfalen,Kreis Mettmann
-Frauen- und Kinderschutzhaus im Hohenlohekreis,0.2191780821917808,0.0,0.7808219178082192,Baden-Württemberg,Landkreis Hohenlohekreis
-Frauen- und Kinderschutzhäuser Münster,0.3178082191780822,0.0,0.6821917808219178,Nordrhein-Westfalen,Kreisfreie Stadt Münster
-Frauen-und Kinderschutzhaus Aschersleben,0.2602739726027397,0.0,0.7397260273972602,Sachsen-Anhalt,Landkreis Salzlandkreis
-Frauen-und Kinderschutzhaus Schwäbisch Hall,0.10684931506849316,0.1780821917808219,0.7150684931506849,Baden-Württemberg,Landkreis Schwäbisch Hall
-Frauen-und Kinderschutzhaus Tuttlingen,0.06027397260273973,0.0,0.9397260273972603,Baden-Württemberg,Landkreis Tuttlingen
-Frauenhaus,0.2465753424657534,0.0,0.7534246575342466,Brandenburg,Landkreis Elbe-Elster
-Frauenhaus,0.04657534246575343,0.0,0.9534246575342465,Bayern,Kreisfreie Stadt Bayreuth
-Frauenhaus,0.0,0.18356164383561643,0.8164383561643835,Bayern,Kreisfreie Stadt Bamberg
+Frauen- und Kinderschutzhaus Moers,0.056776556776556776,0.0,0.9432234432234432,Nordrhein-Westfalen,Kreis Wesel
+Frauen- und Kinderschutzhaus Radolfzell,0.08424908424908426,0.19963369963369965,0.7161172161172161,Baden-Württemberg,Landkreis Konstanz
+Frauen- und Kinderschutzhaus Sangerhausen,0.6263736263736264,0.19597069597069597,0.17765567765567766,Sachsen-Anhalt,Landkreis Mansfeld-Südharz
+Frauen- und Kinderschutzhaus Troisdorf,0.07875457875457875,0.0,0.9212454212454212,Nordrhein-Westfalen,Kreis Rhein-Sieg-Kreis
+Frauen- und Kinderschutzhaus für den Kreis Mettmann,0.1043956043956044,0.0,0.8956043956043956,Nordrhein-Westfalen,Kreis Mettmann
+Frauen- und Kinderschutzhaus im Hohenlohekreis,0.15018315018315018,0.0,0.8498168498168498,Baden-Württemberg,Landkreis Hohenlohekreis
+Frauen- und Kinderschutzhäuser Münster,0.26556776556776557,0.0,0.7344322344322345,Nordrhein-Westfalen,Kreisfreie Stadt Münster
+Frauen-und Kinderschutzhaus Aschersleben,0.2087912087912088,0.07142857142857142,0.7197802197802198,Sachsen-Anhalt,Landkreis Salzlandkreis
+Frauen-und Kinderschutzhaus Schwäbisch Hall,0.07509157509157509,0.152014652014652,0.7728937728937729,Baden-Württemberg,Landkreis Schwäbisch Hall
+Frauen-und Kinderschutzhaus Tuttlingen,0.11355311355311355,0.0,0.8864468864468864,Baden-Württemberg,Landkreis Tuttlingen
+Frauenhaus,0.2490842490842491,0.0,0.7509157509157509,Brandenburg,Landkreis Elbe-Elster
+Frauenhaus,0.06593406593406594,0.0,0.9340659340659341,Bayern,Kreisfreie Stadt Bayreuth
+Frauenhaus,0.0989010989010989,0.17216117216117216,0.7289377289377289,Baden-Württemberg,Stadtkreis Karlsruhe
 Frauenhaus,0.0,0.0,1.0,Niedersachsen,Landkreis Nienburg (Weser)
-Frauenhaus,0.0,0.0,0.9945205479452055,Hessen,Landkreis Groß-Gerau
-Frauenhaus Ahrweiler,0.1232876712328767,0.0,0.8657534246575342,Rheinland-Pfalz,Landkreis Ahrweiler
-Frauenhaus Alsdorf,0.2,0.0,0.8,Nordrhein-Westfalen,Kreis Städteregion Aachen
-Frauenhaus Arnsberg,0.1863013698630137,0.0,0.8136986301369863,Nordrhein-Westfalen,Kreis Hochsauerlandkreis
-Frauenhaus Bad Hersfeld,0.0547945205479452,0.0,0.9452054794520548,Hessen,Landkreis Hersfeld-Rotenburg
-Frauenhaus Bad Kreuznach,0.10136986301369863,0.0,0.8986301369863013,Rheinland-Pfalz,Landkreis Bad Kreuznach
-Frauenhaus Bergisch Gladbach,0.1726027397260274,0.0,0.8273972602739726,Nordrhein-Westfalen,Kreis Rheinisch-Bergischer Kreis
-Frauenhaus Bergstraße,0.06301369863013699,0.0,0.936986301369863,Hessen,Landkreis Bergstraße
-Frauenhaus Bitterfeld-Wolfen,0.4383561643835616,0.0,0.5616438356164384,Sachsen-Anhalt,Landkreis Anhalt-Bitterfeld
-Frauenhaus Bocholt,0.1589041095890411,0.0,0.8410958904109589,Nordrhein-Westfalen,Kreis Borken
-Frauenhaus Bochum,0.1095890410958904,0.0,0.8904109589041096,Nordrhein-Westfalen,Kreisfreie Stadt Bochum
-Frauenhaus Bonn - Frauen helfen Frauen e.V.,0.021917808219178082,0.0,0.9780821917808219,Nordrhein-Westfalen,Kreisfreie Stadt Bonn
-Frauenhaus Coburg,0.13424657534246576,0.0,0.8657534246575342,Bayern,Kreisfreie Stadt Coburg
-Frauenhaus Darmstadt,0.0684931506849315,0.0,0.9315068493150684,Hessen,Kreisfreie Stadt Darmstadt
-Frauenhaus Datteln,0.25753424657534246,0.0,0.7424657534246575,Nordrhein-Westfalen,Kreis Recklinghausen
-Frauenhaus Donnersbergkreis,0.07671232876712329,0.0,0.9232876712328767,Rheinland-Pfalz,Landkreis Donnersbergkreis
-Frauenhaus Duisburg gGmbH,0.17534246575342466,0.0,0.8246575342465754,Nordrhein-Westfalen,Kreisfreie Stadt Duisburg
-Frauenhaus Düsseldorf,0.057534246575342465,0.0,0.9123287671232877,Nordrhein-Westfalen,Kreisfreie Stadt Düsseldorf
-Frauenhaus EN,0.09863013698630137,0.0,0.9013698630136986,Nordrhein-Westfalen,Kreis Ennepe-Ruhr-Kreis
-Frauenhaus Erbach,0.01643835616438356,0.0,0.9835616438356164,Hessen,Landkreis Odenwaldkreis
-Frauenhaus Erding,0.3315068493150685,0.0,0.6684931506849315,Bayern,Landkreis Erding
-Frauenhaus Erfurt,0.06301369863013699,0.0,0.936986301369863,Thüringen,Kreisfreie Stadt Erfurt
-Frauenhaus Espelkamp,0.5698630136986301,0.0,0.4301369863013699,Nordrhein-Westfalen,Kreis Minden-Lübbecke
-Frauenhaus Essen,0.03287671232876712,0.0,0.9671232876712329,Nordrhein-Westfalen,Kreisfreie Stadt Essen
-Frauenhaus Esslingen,0.1095890410958904,0.0,0.8904109589041096,Baden-Württemberg,Landkreis Esslingen
-Frauenhaus Flensburg,0.00821917808219178,0.0,0.9917808219178083,Schleswig-Holstein,Kreisfreie Stadt Flensburg
-Frauenhaus Frankenthal,0.005479452054794521,0.0,0.9945205479452055,Rheinland-Pfalz,Kreisfreie Stadt Frankenthal (Pfalz)
-Frauenhaus Frankfurt (Oder),0.09041095890410959,0.0,0.9095890410958904,Brandenburg,Kreisfreie Stadt Frankfurt (Oder)
-Frauenhaus Freudenstadt,0.04657534246575343,0.03287671232876712,0.9205479452054794,Baden-Württemberg,Landkreis Freudenstadt
-Frauenhaus Fulda,0.00821917808219178,0.0,0.9917808219178083,Hessen,Landkreis Fulda
-Frauenhaus Fürth,0.01643835616438356,0.0,0.9835616438356164,Bayern,Kreisfreie Stadt Fürth
-Frauenhaus Gelsenkirchen,0.07945205479452055,0.0,0.9205479452054794,Nordrhein-Westfalen,Kreisfreie Stadt Gelsenkirchen
-Frauenhaus Gotha,0.2465753424657534,0.11232876712328767,0.6410958904109589,Thüringen,Landkreis Gotha
-Frauenhaus Gütersloh,0.1232876712328767,0.0,0.8767123287671232,Nordrhein-Westfalen,Kreis Gütersloh
-Frauenhaus Hameln e.V.,0.19452054794520549,0.0,0.8054794520547945,Niedersachsen,Landkreis Hameln-Pyrmont
-Frauenhaus Hamm,0.3013698630136986,0.0,0.6986301369863014,Nordrhein-Westfalen,Kreisfreie Stadt Hamm
-Frauenhaus Hanau,0.057534246575342465,0.0,0.9424657534246575,Hessen,Landkreis Main-Kinzig-Kreis
-Frauenhaus Hannover - Frauen helfen Frauen e.V.,0.038356164383561646,0.0,0.9616438356164384,Niedersachsen,Landkreis Region Hannover
-Frauenhaus Hartengrube,0.0027397260273972603,0.0,0.9972602739726028,Schleswig-Holstein,Kreisfreie Stadt Lübeck
-Frauenhaus Herford,0.06301369863013699,0.0,0.936986301369863,Nordrhein-Westfalen,Kreis Herford
-Frauenhaus Herne,0.13150684931506848,0.0,0.8684931506849315,Nordrhein-Westfalen,Kreisfreie Stadt Herne
-Frauenhaus Herten,0.27123287671232876,0.0,0.7287671232876712,Nordrhein-Westfalen,Kreisfreie Stadt Gelsenkirchen
-Frauenhaus Hildesheim e.V.,0.3452054794520548,0.0,0.6547945205479452,Niedersachsen,Landkreis Hildesheim
-Frauenhaus Hochfranken,0.8684931506849315,0.0,0.13150684931506848,Bayern,Landkreis Wunsiedel i. Fichtelgebirge
-Frauenhaus Idar-Oberstein,0.19452054794520549,0.0,0.8054794520547945,Rheinland-Pfalz,Landkreis Birkenfeld
-Frauenhaus Kassel,0.06301369863013699,0.0,0.936986301369863,Hessen,Kreisfreie Stadt Kassel
-Frauenhaus Kiel,0.0,0.0273972602739726,0.9726027397260274,Schleswig-Holstein,Kreisfreie Stadt Kiel
-Frauenhaus Kirchheim,0.12602739726027398,0.0,0.873972602739726,Baden-Württemberg,Landkreis Esslingen
-Frauenhaus Koblenz,0.019178082191780823,0.0,0.9698630136986301,Rheinland-Pfalz,Kreisfreie Stadt Koblenz
-Frauenhaus Landau,0.06575342465753424,0.0,0.9342465753424658,Rheinland-Pfalz,Kreisfreie Stadt Landau in der Pfalz
-Frauenhaus Lauchhammer,0.8410958904109589,0.14520547945205478,0.0136986301369863,Brandenburg,Landkreis Oberspreewald-Lausitz
-Frauenhaus Lila Villa e.V.,0.07671232876712329,0.0,0.9123287671232877,Rheinland-Pfalz,Landkreis Bad Dürkheim
-Frauenhaus Lippe,0.16986301369863013,0.0,0.8301369863013699,Nordrhein-Westfalen,Kreis Lippe
-Frauenhaus Ludwigsburg,0.2191780821917808,0.0,0.7808219178082192,Baden-Württemberg,Landkreis Ludwigsburg
-Frauenhaus Ludwigshafen,0.005479452054794521,0.0136986301369863,0.9698630136986301,Rheinland-Pfalz,Kreisfreie Stadt Ludwigshafen am Rhein
-Frauenhaus Mainz,0.005479452054794521,0.0,0.9835616438356164,Rheinland-Pfalz,Kreisfreie Stadt Mainz
-Frauenhaus Mayen-Koblenz,0.15342465753424658,0.0,0.7397260273972602,Rheinland-Pfalz,Landkreis Mayen-Koblenz
-Frauenhaus Mönchengladbach,0.13424657534246576,0.0,0.8657534246575342,Nordrhein-Westfalen,Kreisfreie Stadt Mönchengladbach
-Frauenhaus Neunkirchen,0.3178082191780822,0.0,0.6821917808219178,Saarland,Landkreis Neunkirchen
-Frauenhaus Neustadt,0.04657534246575343,0.0,0.9534246575342465,Rheinland-Pfalz,Kreisfreie Stadt Neustadt an der Weinstraße
-Frauenhaus Nürnberg,0.18904109589041096,0.0,0.810958904109589,Bayern,Kreisfreie Stadt Nürnberg
+Frauenhaus,0.0,0.0,0.9963369963369964,Hessen,Landkreis Groß-Gerau
+Frauenhaus Ahrweiler,0.09523809523809523,0.0,0.8974358974358975,Rheinland-Pfalz,Landkreis Ahrweiler
+Frauenhaus Alsdorf,0.21978021978021978,0.0,0.7802197802197802,Nordrhein-Westfalen,Kreis Städteregion Aachen
+Frauenhaus Arnsberg,0.12454212454212454,0.0,0.8754578754578755,Nordrhein-Westfalen,Kreis Hochsauerlandkreis
+Frauenhaus Bad Hersfeld,0.038461538461538464,0.0,0.9615384615384616,Hessen,Landkreis Hersfeld-Rotenburg
+Frauenhaus Bad Kreuznach,0.08241758241758242,0.0,0.9175824175824175,Rheinland-Pfalz,Landkreis Bad Kreuznach
+Frauenhaus Bergisch Gladbach,0.13186813186813187,0.0,0.8681318681318682,Nordrhein-Westfalen,Kreis Rheinisch-Bergischer Kreis
+Frauenhaus Bergstraße,0.06043956043956044,0.0,0.9395604395604396,Hessen,Landkreis Bergstraße
+Frauenhaus Bocholt,0.17399267399267399,0.0,0.826007326007326,Nordrhein-Westfalen,Kreis Borken
+Frauenhaus Bochum,0.11355311355311355,0.0,0.8864468864468864,Nordrhein-Westfalen,Kreisfreie Stadt Bochum
+Frauenhaus Bonn - Frauen helfen Frauen e.V.,0.018315018315018316,0.0,0.9816849816849816,Nordrhein-Westfalen,Kreisfreie Stadt Bonn
+Frauenhaus Coburg,0.11172161172161173,0.0,0.8882783882783882,Bayern,Kreisfreie Stadt Coburg
+Frauenhaus Darmstadt,0.08241758241758242,0.0,0.9175824175824175,Hessen,Kreisfreie Stadt Darmstadt
+Frauenhaus Datteln,0.2673992673992674,0.0,0.7326007326007326,Nordrhein-Westfalen,Kreis Recklinghausen
+Frauenhaus Donnersbergkreis,0.06043956043956044,0.0,0.9395604395604396,Rheinland-Pfalz,Landkreis Donnersbergkreis
+Frauenhaus Duisburg gGmbH,0.17399267399267399,0.0,0.826007326007326,Nordrhein-Westfalen,Kreisfreie Stadt Duisburg
+Frauenhaus Düsseldorf,0.047619047619047616,0.0,0.9322344322344323,Nordrhein-Westfalen,Kreisfreie Stadt Düsseldorf
+Frauenhaus EN,0.08608058608058608,0.0,0.9139194139194139,Nordrhein-Westfalen,Kreis Ennepe-Ruhr-Kreis
+Frauenhaus Erbach,0.031135531135531136,0.0,0.9688644688644689,Hessen,Landkreis Odenwaldkreis
+Frauenhaus Erding,0.30036630036630035,0.0,0.6996336996336996,Bayern,Landkreis Erding
+Frauenhaus Erfurt,0.04212454212454213,0.0,0.9578754578754579,Thüringen,Kreisfreie Stadt Erfurt
+Frauenhaus Espelkamp,0.4816849816849817,0.0,0.5183150183150184,Nordrhein-Westfalen,Kreis Minden-Lübbecke
+Frauenhaus Essen,0.031135531135531136,0.0,0.9688644688644689,Nordrhein-Westfalen,Kreisfreie Stadt Essen
+Frauenhaus Esslingen,0.08241758241758242,0.0,0.9175824175824175,Baden-Württemberg,Landkreis Esslingen
+Frauenhaus Flensburg,0.020146520146520148,0.0,0.9798534798534798,Schleswig-Holstein,Kreisfreie Stadt Flensburg
+Frauenhaus Frankenthal,0.05128205128205128,0.0,0.9487179487179487,Rheinland-Pfalz,Kreisfreie Stadt Frankenthal (Pfalz)
+Frauenhaus Frankfurt (Oder),0.06043956043956044,0.0,0.9395604395604396,Brandenburg,Kreisfreie Stadt Frankfurt (Oder)
+Frauenhaus Freudenstadt,0.04945054945054945,0.02197802197802198,0.9285714285714286,Baden-Württemberg,Landkreis Freudenstadt
+Frauenhaus Fulda,0.01098901098901099,0.0,0.989010989010989,Hessen,Landkreis Fulda
+Frauenhaus Fürth,0.02564102564102564,0.0,0.9743589743589743,Bayern,Kreisfreie Stadt Fürth
+Frauenhaus Gelsenkirchen,0.0695970695970696,0.0,0.9304029304029304,Nordrhein-Westfalen,Kreisfreie Stadt Gelsenkirchen
+Frauenhaus Gotha,0.16483516483516483,0.07509157509157509,0.76007326007326,Thüringen,Landkreis Gotha
+Frauenhaus Gütersloh,0.1227106227106227,0.0,0.8772893772893773,Nordrhein-Westfalen,Kreis Gütersloh
+Frauenhaus Hameln e.V.,0.17582417582417584,0.0,0.8241758241758241,Niedersachsen,Landkreis Hameln-Pyrmont
+Frauenhaus Hamm,0.32234432234432236,0.0,0.6776556776556777,Nordrhein-Westfalen,Kreisfreie Stadt Hamm
+Frauenhaus Hanau,0.07326007326007326,0.0,0.9267399267399268,Hessen,Landkreis Main-Kinzig-Kreis
+Frauenhaus Hannover - Frauen helfen Frauen e.V.,0.02564102564102564,0.0,0.9743589743589743,Niedersachsen,Landkreis Region Hannover
+Frauenhaus Hartengrube,0.0018315018315018315,0.0,0.9981684981684982,Schleswig-Holstein,Kreisfreie Stadt Lübeck
+Frauenhaus Herford,0.0695970695970696,0.0,0.9304029304029304,Nordrhein-Westfalen,Kreis Herford
+Frauenhaus Herne,0.10805860805860806,0.0,0.891941391941392,Nordrhein-Westfalen,Kreisfreie Stadt Herne
+Frauenhaus Herten,0.304029304029304,0.0,0.6959706959706959,Nordrhein-Westfalen,Kreisfreie Stadt Gelsenkirchen
+Frauenhaus Hildesheim e.V.,0.30036630036630035,0.0,0.6996336996336996,Niedersachsen,Landkreis Hildesheim
+Frauenhaus Hochfranken,0.7435897435897436,0.0,0.2564102564102564,Bayern,Landkreis Wunsiedel i. Fichtelgebirge
+Frauenhaus Idar-Oberstein,0.23443223443223443,0.0,0.7655677655677655,Rheinland-Pfalz,Landkreis Birkenfeld
+Frauenhaus Kassel,0.04212454212454213,0.0,0.9578754578754579,Hessen,Kreisfreie Stadt Kassel
+Frauenhaus Kiel,0.0,0.018315018315018316,0.9816849816849816,Schleswig-Holstein,Kreisfreie Stadt Kiel
+Frauenhaus Kirchheim,0.08791208791208792,0.0,0.9120879120879121,Baden-Württemberg,Landkreis Esslingen
+Frauenhaus Koblenz,0.016483516483516484,0.0,0.9761904761904762,Rheinland-Pfalz,Kreisfreie Stadt Koblenz
+Frauenhaus Landau,0.0695970695970696,0.0,0.9304029304029304,Rheinland-Pfalz,Kreisfreie Stadt Landau in der Pfalz
+Frauenhaus Lila Villa e.V.,0.06227106227106227,0.0,0.9304029304029304,Rheinland-Pfalz,Landkreis Bad Dürkheim
+Frauenhaus Lippe,0.23809523809523808,0.0,0.7619047619047619,Nordrhein-Westfalen,Kreis Lippe
+Frauenhaus Ludwigsburg,0.22527472527472528,0.009157509157509158,0.7655677655677655,Baden-Württemberg,Landkreis Ludwigsburg
+Frauenhaus Ludwigshafen,0.003663003663003663,0.009157509157509158,0.9798534798534798,Rheinland-Pfalz,Kreisfreie Stadt Ludwigshafen am Rhein
+Frauenhaus Mainz,0.007326007326007326,0.0,0.9853479853479854,Rheinland-Pfalz,Kreisfreie Stadt Mainz
+Frauenhaus Mayen-Koblenz,0.1684981684981685,0.0,0.76007326007326,Rheinland-Pfalz,Landkreis Mayen-Koblenz
+Frauenhaus Mönchengladbach,0.11355311355311355,0.0,0.8864468864468864,Nordrhein-Westfalen,Kreisfreie Stadt Mönchengladbach
+Frauenhaus Neunkirchen,0.2967032967032967,0.05311355311355311,0.6501831501831502,Saarland,Landkreis Neunkirchen
+Frauenhaus Neustadt,0.045787545787545784,0.0,0.9542124542124543,Rheinland-Pfalz,Kreisfreie Stadt Neustadt an der Weinstraße
+Frauenhaus Nürnberg,0.15018315018315018,0.0,0.8498168498168498,Bayern,Kreisfreie Stadt Nürnberg
 Frauenhaus Oberhausen,0.0,0.0,1.0,Nordrhein-Westfalen,Kreisfreie Stadt Oberhausen
-Frauenhaus Oberursel,0.16712328767123288,0.0,0.8328767123287671,Hessen,Landkreis Hochtaunuskreis
-Frauenhaus Olpe,0.17534246575342466,0.0,0.8246575342465754,Nordrhein-Westfalen,Kreis Olpe
-Frauenhaus Ostholstein,0.049315068493150684,0.043835616438356165,0.9068493150684932,Schleswig-Holstein,Kreis Ostholstein
-Frauenhaus Paderborn,0.11506849315068493,0.0,0.8849315068493151,Nordrhein-Westfalen,Kreis Paderborn
-Frauenhaus Pinneberg,0.00821917808219178,0.0,0.9917808219178083,Schleswig-Holstein,Kreis Pinneberg
-Frauenhaus Pirmasens,0.2,0.0,0.7753424657534247,Rheinland-Pfalz,Kreisfreie Stadt Pirmasens
-Frauenhaus Recklinghausen e.V.,0.052054794520547946,0.0,0.947945205479452,Nordrhein-Westfalen,Kreis Recklinghausen
-Frauenhaus Remscheid,0.06027397260273973,0.0,0.9397260273972603,Nordrhein-Westfalen,Kreis Rheinisch-Bergischer Kreis
-Frauenhaus Rendsburg gGmbH,0.2876712328767123,0.005479452054794521,0.7068493150684931,Schleswig-Holstein,Kreis Rendsburg-Eckernförde
-Frauenhaus Rhein - Erftkreis e.V.,0.13424657534246576,0.0,0.8657534246575342,Nordrhein-Westfalen,Kreis Rhein-Erft-Kreis
-Frauenhaus Rheine,0.1780821917808219,0.0,0.821917808219178,Nordrhein-Westfalen,Kreis Steinfurt
-Frauenhaus Rodgau,0.038356164383561646,0.0,0.9616438356164384,Hessen,Landkreis Offenbach
-Frauenhaus Rosenheim/Traunstein,0.6657534246575343,0.0,0.33424657534246577,Bayern,Kreisfreie Stadt Rosenheim
-Frauenhaus Saarbrücken,0.1506849315068493,0.0,0.8493150684931506,Saarland,Landkreis Regionalverband Saarbrücken
-Frauenhaus Saarlouis,0.2136986301369863,0.0,0.7863013698630137,Saarland,Landkreis Saarlouis
-Frauenhaus Schwabach,0.0,0.0,1.0,Bayern,Kreisfreie Stadt Schwabach
+Frauenhaus Oberursel,0.1684981684981685,0.0,0.8315018315018315,Hessen,Landkreis Hochtaunuskreis
+Frauenhaus Olpe,0.17765567765567766,0.0,0.8223443223443223,Nordrhein-Westfalen,Kreis Olpe
+Frauenhaus Ostholstein,0.040293040293040296,0.029304029304029304,0.9304029304029304,Schleswig-Holstein,Kreis Ostholstein
+Frauenhaus Paderborn,0.10622710622710622,0.0,0.8937728937728938,Nordrhein-Westfalen,Kreis Paderborn
+Frauenhaus Pinneberg,0.005494505494505495,0.0,0.9945054945054945,Schleswig-Holstein,Kreis Pinneberg
+Frauenhaus Pirmasens,0.20146520146520147,0.0,0.782051282051282,Rheinland-Pfalz,Kreisfreie Stadt Pirmasens
+Frauenhaus Recklinghausen e.V.,0.038461538461538464,0.0,0.9615384615384616,Nordrhein-Westfalen,Kreis Recklinghausen
+Frauenhaus Remscheid,0.05311355311355311,0.0,0.9468864468864469,Nordrhein-Westfalen,Kreis Rheinisch-Bergischer Kreis
+Frauenhaus Rendsburg gGmbH,0.2893772893772894,0.01098901098901099,0.6996336996336996,Schleswig-Holstein,Kreis Rendsburg-Eckernförde
+Frauenhaus Rhein - Erftkreis e.V.,0.10989010989010989,0.0,0.8901098901098901,Nordrhein-Westfalen,Kreis Rhein-Erft-Kreis
+Frauenhaus Rheine,0.14835164835164835,0.0,0.8516483516483516,Nordrhein-Westfalen,Kreis Steinfurt
+Frauenhaus Rodgau,0.03296703296703297,0.0,0.967032967032967,Hessen,Landkreis Offenbach
+Frauenhaus Rosenheim/Traunstein,0.47802197802197804,0.0,0.521978021978022,Bayern,Kreisfreie Stadt Rosenheim
+Frauenhaus Saarbrücken,0.18864468864468864,0.04212454212454213,0.7692307692307693,Saarland,Landkreis Regionalverband Saarbrücken
+Frauenhaus Saarlouis,0.2838827838827839,0.056776556776556776,0.6593406593406593,Saarland,Landkreis Saarlouis
+Frauenhaus Schwabach,0.02564102564102564,0.0,0.9743589743589743,Bayern,Kreisfreie Stadt Schwabach
 Frauenhaus Schwarzenbek,0.0,0.0,1.0,Schleswig-Holstein,Kreis Herzogtum Lauenburg
-Frauenhaus Siegen,0.09315068493150686,0.0,0.9068493150684932,Nordrhein-Westfalen,Kreis Siegen-Wittgenstein
-Frauenhaus Singen,0.12054794520547946,0.0,0.8794520547945206,Baden-Württemberg,Landkreis Konstanz
+Frauenhaus Siegen,0.07326007326007326,0.0,0.9267399267399268,Nordrhein-Westfalen,Kreis Siegen-Wittgenstein
+Frauenhaus Singen,0.10805860805860806,0.0,0.891941391941392,Baden-Württemberg,Landkreis Konstanz
 Frauenhaus SkF,0.0,0.0,1.0,Bayern,Kreisfreie Stadt Würzburg
-Frauenhaus SkF Karlsruhe,0.3917808219178082,0.005479452054794521,0.6027397260273972,Baden-Württemberg,Stadtkreis Karlsruhe
-Frauenhaus Soest,0.19452054794520549,0.0,0.8054794520547945,Nordrhein-Westfalen,Kreis Soest
-Frauenhaus Sondershausen,0.6958904109589041,0.136986301369863,0.16712328767123288,Thüringen,Landkreis Kyffhäuserkreis
-Frauenhaus Sozialdienst katholischer Frauen e.V.,0.10684931506849316,0.0,0.8931506849315068,Hessen,Landkreis Gießen
-Frauenhaus Speyer,0.09315068493150686,0.0,0.9068493150684932,Rheinland-Pfalz,Kreisfreie Stadt Speyer
-Frauenhaus Stormarn,0.16164383561643836,0.043835616438356165,0.7917808219178082,Schleswig-Holstein,Kreis Stormarn
-Frauenhaus Telgte,0.1095890410958904,0.0,0.8904109589041096,Nordrhein-Westfalen,Kreis Warendorf
-Frauenhaus Ulm,0.0821917808219178,0.14794520547945206,0.7698630136986301,Baden-Württemberg,Stadtkreis Ulm
-Frauenhaus Unna,0.021917808219178082,0.0,0.9780821917808219,Nordrhein-Westfalen,Kreis Unna
-Frauenhaus Warendorf,0.07945205479452055,0.0,0.9205479452054794,Nordrhein-Westfalen,Kreis Warendorf
-Frauenhaus Weiden,0.42191780821917807,0.0,0.5780821917808219,Bayern,Kreisfreie Stadt Weiden i.d. OPf.
-Frauenhaus Westerwald,0.06301369863013699,0.0,0.9068493150684932,Rheinland-Pfalz,Landkreis Westerwaldkreis
-Frauenhaus Wetterau,0.1780821917808219,0.0,0.821917808219178,Hessen,Landkreis Wetteraukreis
-Frauenhaus Wetzlar e.V.,0.09315068493150686,0.0,0.9068493150684932,Hessen,Landkreis Lahn-Dill-Kreis
-Frauenhaus Worms,0.14520547945205478,0.0,0.8438356164383561,Rheinland-Pfalz,Kreisfreie Stadt Worms
-Frauenhaus Zollernalbkreis,0.2958904109589041,0.0,0.7041095890410959,Baden-Württemberg,Landkreis Zollernalbkreis
-Frauenhaus der Frauenhilfe München,0.3698630136986301,0.0,0.6301369863013698,Bayern,Kreisfreie Stadt München
-Frauenhaus des Caritasverbandes für Stadt und Landkreis Gifhorn,0.736986301369863,0.0,0.26301369863013696,Niedersachsen,Landkreis Gifhorn
-Frauenhaus des Rhein-Sieg-Kreises,0.10684931506849316,0.0,0.8931506849315068,Nordrhein-Westfalen,Kreis Rhein-Sieg-Kreis
-Frauenhaus e.V. Solingen,0.07671232876712329,0.0,0.9232876712328767,Nordrhein-Westfalen,Kreis Mettmann
+Frauenhaus SkF Karlsruhe,0.37362637362637363,0.023809523809523808,0.6025641025641025,Baden-Württemberg,Stadtkreis Karlsruhe
+Frauenhaus Soest,0.16117216117216118,0.0,0.8388278388278388,Nordrhein-Westfalen,Kreis Soest
+Frauenhaus Sondershausen,0.6227106227106227,0.17216117216117216,0.20512820512820512,Thüringen,Landkreis Kyffhäuserkreis
+Frauenhaus Sozialdienst katholischer Frauen e.V.,0.08241758241758242,0.0,0.9175824175824175,Hessen,Landkreis Gießen
+Frauenhaus Speyer,0.09157509157509157,0.0,0.9084249084249084,Rheinland-Pfalz,Kreisfreie Stadt Speyer
+Frauenhaus Stormarn,0.12454212454212454,0.029304029304029304,0.8443223443223443,Schleswig-Holstein,Kreis Stormarn
+Frauenhaus Telgte,0.09523809523809523,0.0,0.9047619047619048,Nordrhein-Westfalen,Kreis Warendorf
+Frauenhaus Unna,0.02197802197802198,0.0,0.978021978021978,Nordrhein-Westfalen,Kreis Unna
+Frauenhaus Warendorf,0.07875457875457875,0.0,0.9212454212454212,Nordrhein-Westfalen,Kreis Warendorf
+Frauenhaus Weiden,0.3882783882783883,0.0,0.6117216117216118,Bayern,Kreisfreie Stadt Weiden i.d. OPf.
+Frauenhaus Westerwald,0.10256410256410256,0.0,0.8772893772893773,Rheinland-Pfalz,Landkreis Westerwaldkreis
+Frauenhaus Wetterau,0.19963369963369965,0.0,0.8003663003663004,Hessen,Landkreis Wetteraukreis
+Frauenhaus Wetzlar e.V.,0.08424908424908426,0.0,0.9157509157509157,Hessen,Landkreis Lahn-Dill-Kreis
+Frauenhaus Worms,0.11538461538461539,0.0,0.8772893772893773,Rheinland-Pfalz,Kreisfreie Stadt Worms
+Frauenhaus Zollernalbkreis,0.2454212454212454,0.0,0.7545787545787546,Baden-Württemberg,Landkreis Zollernalbkreis
+Frauenhaus der Frauenhilfe München,0.24725274725274726,0.0,0.7527472527472527,Bayern,Kreisfreie Stadt München
+Frauenhaus des Caritasverbandes für Stadt und Landkreis Gifhorn,0.793040293040293,0.0,0.20695970695970695,Niedersachsen,Landkreis Gifhorn
+Frauenhaus des Rhein-Sieg-Kreises,0.08424908424908426,0.0,0.9157509157509157,Nordrhein-Westfalen,Kreis Rhein-Sieg-Kreis
+Frauenhaus e.V. Solingen,0.09340659340659341,0.0,0.9065934065934066,Nordrhein-Westfalen,Kreis Mettmann
 Frauenhaus für die Region Main-Rhön in Schweinfurt,0.0,0.0,1.0,Bayern,Kreisfreie Stadt Schweinfurt
-Frauenhaus im Landkreis Kassel,0.01643835616438356,0.0,0.9835616438356164,Hessen,Landkreis Kassel
-Frauenhaus und Beratungsstelle,0.0547945205479452,0.0,0.9452054794520548,Brandenburg,Landkreis Oder-Spree
-"Frauenhaus, Beratungs- und Interventionsstelle Limburg",0.1178082191780822,0.0,0.8821917808219178,Hessen,Landkreis Limburg-Weilburg
+Frauenhaus im Landkreis Kassel,0.020146520146520148,0.0,0.9798534798534798,Hessen,Landkreis Kassel
+Frauenhaus und Beratungsstelle,0.03663003663003663,0.0,0.9633699633699634,Brandenburg,Landkreis Oder-Spree
+"Frauenhaus, Beratungs- und Interventionsstelle Limburg",0.1043956043956044,0.0,0.8956043956043956,Hessen,Landkreis Limburg-Weilburg
 Frauenschutz Weimarer Land,0.0,0.0,1.0,Thüringen,Landkreis Weimarer Land
-Frauenschutzhaus,0.15342465753424658,0.0,0.8410958904109589,Mecklenburg-Vorpommern,Landkreis Nordwestmecklenburg
-Frauenschutzhaus,0.19452054794520549,0.0,0.8054794520547945,Mecklenburg-Vorpommern,Landkreis Rostock
-Frauenschutzhaus Freiberg,0.6410958904109589,0.0,0.3589041095890411,Sachsen,Landkreis Mittelsachsen
-Frauenschutzhaus Helmstedt,0.7863013698630137,0.0,0.2136986301369863,Niedersachsen,Landkreis Helmstedt
-Frauenschutzzentrum,0.18904109589041096,0.0,0.810958904109589,Nordrhein-Westfalen,Kreis Minden-Lübbecke
-Frauenzuflucht Kaiserslautern,0.0,0.0,1.0,Rheinland-Pfalz,Kreisfreie Stadt Kaiserslautern
-Haus für Frauen in Not,0.16986301369863013,0.0,0.8301369863013699,Hessen,Landkreis Rheingau-Taunus-Kreis
-Haus für Frauen in Not Wiesbaden,0.04657534246575343,0.0,0.9534246575342465,Hessen,Kreisfreie Stadt Wiesbaden
-Hilfe für Frauen in Not-Frauenhaus Bonn e.V.,0.07671232876712329,0.0,0.9232876712328767,Nordrhein-Westfalen,Kreisfreie Stadt Bonn
-Internationales Frauenhaus,0.043835616438356165,0.0,0.9561643835616438,Nordrhein-Westfalen,Kreisfreie Stadt Düsseldorf
-Jenaer Frauenhaus e.V.,0.0547945205479452,0.0,0.9452054794520548,Thüringen,Kreisfreie Stadt Jena
-KARO e.V.,0.6219178082191781,0.0,0.3780821917808219,Sachsen,Landkreis Vogtlandkreis
-Schutzhaus für Frauen und Kinder,0.2602739726027397,0.0,0.7397260273972602,Nordrhein-Westfalen,Kreis Euskirchen
-Städtisches Frauenhaus Stuttgart,0.3561643835616438,0.13424657534246576,0.5095890410958904,Baden-Württemberg,Stadtkreis Stuttgart
-Wolfsburger Frauenhaus,0.27671232876712326,0.0,0.7232876712328767,Niedersachsen,Kreisfreie Stadt Wolfsburg
+Frauenschutzhaus,0.13003663003663005,0.17399267399267399,0.6959706959706959,Mecklenburg-Vorpommern,Landkreis Rostock
+Frauenschutzhaus Freiberg,0.6446886446886447,0.07142857142857142,0.2838827838827839,Sachsen,Landkreis Mittelsachsen
+Frauenschutzhaus Helmstedt,0.7271062271062271,0.0,0.27289377289377287,Niedersachsen,Landkreis Helmstedt
+Frauenschutzzentrum,0.18315018315018314,0.0,0.815018315018315,Nordrhein-Westfalen,Kreis Minden-Lübbecke
+Frauenzuflucht Kaiserslautern,0.014652014652014652,0.0,0.9853479853479854,Rheinland-Pfalz,Kreisfreie Stadt Kaiserslautern
+Haus für Frauen in Not,0.19963369963369965,0.0,0.8003663003663004,Hessen,Landkreis Rheingau-Taunus-Kreis
+Haus für Frauen in Not Wiesbaden,0.03663003663003663,0.0,0.9633699633699634,Hessen,Kreisfreie Stadt Wiesbaden
+Hilfe für Frauen in Not-Frauenhaus Bonn e.V.,0.08241758241758242,0.0,0.9175824175824175,Nordrhein-Westfalen,Kreisfreie Stadt Bonn
+Internationales Frauenhaus,0.03296703296703297,0.0,0.967032967032967,Nordrhein-Westfalen,Kreisfreie Stadt Düsseldorf
+Jenaer Frauenhaus e.V.,0.03663003663003663,0.0,0.9633699633699634,Thüringen,Kreisfreie Stadt Jena
+KARO e.V.,0.575091575091575,0.029304029304029304,0.3956043956043956,Sachsen,Landkreis Vogtlandkreis
+Schutzhaus für Frauen und Kinder,0.21245421245421245,0.0,0.7875457875457875,Nordrhein-Westfalen,Kreis Euskirchen
+Städtisches Frauenhaus Stuttgart,0.2893772893772894,0.1227106227106227,0.5879120879120879,Baden-Württemberg,Stadtkreis Stuttgart
+Wolfsburger Frauenhaus,0.26556776556776557,0.0,0.7344322344322345,Niedersachsen,Kreisfreie Stadt Wolfsburg
